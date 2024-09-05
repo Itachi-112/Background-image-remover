@@ -1,0 +1,17 @@
+title  =====> Easy steps to remove a image background
+subtitle =====> Remove background from images of humans, animals or objects and download high-resolution images for free.
+
+card-1 ====> [
+    title: Upload image
+    subtitle: For best results, choose an image where the subject has clear edges with nothing overlapping. 
+]
+
+card-2 ====> [
+    title: Remove backgound
+    subtitle: Upload your image to automatically remove the background in an instant.
+]
+
+card-2 ====> [
+    title: Download image
+    subtitle: Download your new image as a PNG file with a transparent background to save, share, or keep editing.
+]
